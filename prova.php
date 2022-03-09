@@ -1,3 +1,3 @@
 <?php
-echo "Hola soc el Marc Lamolla"
+echo "Hola soc el Marc Lamolla :D"
 ?>
